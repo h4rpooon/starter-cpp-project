@@ -8,3 +8,4 @@ include_directories(include)
 
 add_executable(main src/main.cpp)
 add_executable(week05 src/week05.cpp)
+add_executable(week06 src/week06.cpp)
